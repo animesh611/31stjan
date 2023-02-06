@@ -3,3 +3,5 @@ new file changes 1
 
 
 stash change 1
+
+stash change 2
